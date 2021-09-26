@@ -1,1 +1,1 @@
-# cse110lab1
+I don't actually have a favorite programming language, but I do miss the garbage collector in Java since I've been coding in C and C++ as of recent.
