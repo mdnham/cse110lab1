@@ -49,7 +49,4 @@ I haven't actually watched new anime for a few months now, but I still read pret
 - [Gourmet Hound](https://www.webtoons.com/en/drama/gourmet-hound/list?title_no=1245&page=1) (Free on Webtoon!)
 - [Seasons of Blossom](https://www.webtoons.com/en/romance/seasonsofblossom/list?title_no=2509&page=1) (Also free!)
 
-I find doodling rather calming, and so I tend to have small doodles on the side of my notes from time to time. However, I also do [sketches](http://github.com/mdnham/cse110lab1/sketches.png) on my iPad (Procreate) whenever I can!
-
-
-
+I find doodling rather calming, and so I tend to have small doodles on the side of my notes from time to time. However, I also do [sketches](sketches.png) on my iPad (Procreate) whenever I can!
