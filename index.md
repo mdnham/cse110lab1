@@ -6,7 +6,9 @@
 ## Introduction
 > Because people don't have wings... we look for ways to fly.
 
-Hello! My name is Makayla Nham, and I am a 4th year at UCSD (Sixth College) studying **Math CS**. I will _hopefully_ graduate by Spring 2022 as long as I am able to get into the classes I am interested in. ~~CSE 110 is one of them, please get me off the waitlist.~~
+Hello!
+
+My name is Makayla Nham, and I am a 4th year at UCSD (Sixth College) studying **Math CS**. I will _hopefully_ graduate by Spring 2022 as long as I am able to get into the classes I am interested in. ~~CSE 110 is one of them, please get me off the waitlist.~~
 
 ## My CS Experience So Far
 `ellipse(x, y, w, h);`
@@ -50,3 +52,7 @@ I haven't actually watched new anime for a few months now, but I still read pret
 - [Seasons of Blossom](https://www.webtoons.com/en/romance/seasonsofblossom/list?title_no=2509&page=1) (Also free!)
 
 I find doodling rather calming, and so I tend to have small doodles on the side of my notes from time to time. However, I also do [sketches](sketches.png) on my iPad (Procreate) whenever I can!
+
+Anyways, thank you for looking at this. You can have a picture of today's dinner.
+
+![my dinner](https://cdn.discordapp.com/attachments/441428574017290240/892257557090017310/image0.jpg)
